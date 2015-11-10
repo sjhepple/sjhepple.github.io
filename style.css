@@ -1,0 +1,43 @@
+div#header{
+	font-family: 'Playfair Display SC',serif;
+	color: white;
+	font-size: 50px;
+	display: inline;
+	background: #00CC66
+}
+div#first_para{
+	font-family: didot;
+	color: white;
+	font-size: 18px;
+	font-style: italic;
+}
+div#final_line{
+	font-family: Helvetica,Arial,sans-serif;
+	color: white;
+	font-size: 12px;
+}
+div#main_nav{
+    font-family: Helvetica,Arial,sans-serif;
+    color: orange;
+    display: inline;
+
+}
+li.important{
+font-family: 'Playfair Display SC',serif;
+	display: inline;
+	font-size: 16px;
+	color: white;
+	margin: auto;
+	padding-left: 20px;
+}
+body{
+	background: black
+}
+div#alpaca{
+	div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+}
