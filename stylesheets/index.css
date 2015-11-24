@@ -1,0 +1,51 @@
+* {
+margin: 0;
+padding: 3;	
+}
+
+div#header{
+	font-family: 'Playfair Display SC',serif;
+	color: white;
+	font-size: 70px;
+	padding-top: 50px
+	display: inline;
+
+}
+div#main_nav{
+    font-family: 'Playfair Display SC',serif;
+    color: white;
+    padding-bottom: 40px;
+    display: inline;
+    text-align: center;
+    font-size: 28px;
+}
+ a:hover{
+    background-color: #00CC66;
+}
+div#first_para{
+	font-family: didot;
+	color: white;
+	font-size: 28px;
+	font-style: italic;
+}
+div#final_line{
+	font-family: Helvetica,Arial,sans-serif;
+	color: white;
+	font-size: 12px;
+}
+body{
+	background: black;
+}
+div#alpaca{
+	div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+
+}
+div#list{
+		font-family: Helvetica,Arial,sans-serif;
+	color: white;
+	font-size: 12px;
+}
